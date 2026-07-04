@@ -21,7 +21,7 @@ Software engineer · CS graduate from the University of Crete
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[lumentale-wiki](https://github.com/Kyraws/lumentale-wiki)** | Fan-made wiki for *LumenTale: Memories of Trey* — full dex, interactive world map with engine-true pin projection, story browser, 8-language localization | Spring Boot · React · PostgreSQL |
+| **[lumentale-wiki](https://github.com/Kyraws/lumentale-wiki)** | Personal fan project (unaffiliated, non-commercial): a wiki for *LumenTale: Memories of Trey* — full dex, interactive world map with engine-true pin projection, story browser, 8-language localization | Spring Boot · React · PostgreSQL |
 | **[hy340](https://github.com/Kyraws/hy340)** | Compiler + bytecode virtual machine for the Alpha scripting language, built in five phases — lexer, parser, intermediate code, code generation, and a stack-based VM | C · Flex · Bison |
 | **[VacationPortal](https://github.com/Kyraws/VacationPortal)** | Employee vacation-request portal with role-based auth — MVC framework written from scratch | PHP 8 · PDO · MySQL |
 | **[359_Project](https://github.com/Kyraws/359_Project)** | Library management web app — students borrow and review books, librarians manage catalogs | Java Servlets · MySQL · JS |
