@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Orestis 👋</h1>
 
 <p align="center">
@@ -21,6 +22,7 @@ Software engineer · CS graduate from the University of Crete
 
 | Project | What it is | Tech |
 |---|---|---|
+| **[inactive-reset](https://github.com/Kyraws/inactive-reset)** | Windows practice companion for *Le Mans Ultimate* — checkpoint capture and reset, custom session builder, interactive circuit maps, tyre preparation, and offline official-event practice | C# · .NET · WebView2 |
 | **[lumentale-wiki](https://github.com/Kyraws/lumentale-wiki)** | Personal fan project (unaffiliated, non-commercial): a wiki for *LumenTale: Memories of Trey* — full dex, interactive world map with engine-true pin projection, story browser, 8-language localization | Spring Boot · React · PostgreSQL |
 | **[alpha-compiler](https://github.com/Kyraws/alpha-compiler)** | Compiler + bytecode virtual machine for the Alpha scripting language, built in five phases — lexer, parser, intermediate code, code generation, and a stack-based VM | C · Flex · Bison |
 | **[VacationPortal](https://github.com/Kyraws/VacationPortal)** | Employee vacation-request portal with role-based auth — MVC framework written from scratch | PHP 8 · PDO · MySQL |
