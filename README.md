@@ -1,30 +1,23 @@
+﻿# Orestis Kyratsas
 
-<h1 align="center">Hi, I'm Orestis 👋</h1>
+Software engineer and Computer Science graduate from the University of Crete, with professional experience in AI agent evaluation. I build developer tools and full-stack applications, with an interest in reverse engineering, automation, and reliable AI-assisted development.
 
-<p align="center">
-Software engineer · CS graduate from the University of Crete
-</p>
+At Datawise, I worked on coding-agent evaluation tasks: refining instructions, environments, and executable graders to calibrate difficulty, preserve valid solutions, and address reward-hacking routes. My work included Python automation, rollout analysis, and specialized-agent workflows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C-283593?style=flat&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-</p>
+## Selected projects
 
----
+### [Inactive Reset](https://github.com/Kyraws/inactive-reset)
 
-### 🛠️ Things I've built
+A Windows practice companion for **Le Mans Ultimate**, built with **C# / .NET and WebView2**. The engineering includes shared-memory telemetry, runtime offset discovery, guarded process-memory operations, and transactional rollback of checkpoint bytes. Intended for offline practice with anti-cheat disabled; it does not restore every part of the simulation state.
 
-| Project | What it is | Tech |
-|---|---|---|
-| **[inactive-reset](https://github.com/Kyraws/inactive-reset)** | Windows practice companion for *Le Mans Ultimate* — checkpoint capture and reset, custom session builder, interactive circuit maps, tyre preparation, and offline official-event practice | C# · .NET · WebView2 |
-| **[lumentale-wiki](https://github.com/Kyraws/lumentale-wiki)** | Personal fan project (unaffiliated, non-commercial): a wiki for *LumenTale: Memories of Trey* — full dex, interactive world map with engine-true pin projection, story browser, 8-language localization | Spring Boot · React · PostgreSQL |
-| **[alpha-compiler](https://github.com/Kyraws/alpha-compiler)** | Compiler + bytecode virtual machine for the Alpha scripting language, built in five phases — lexer, parser, intermediate code, code generation, and a stack-based VM | C · Flex · Bison |
-| **[VacationPortal](https://github.com/Kyraws/VacationPortal)** | Employee vacation-request portal with role-based auth — MVC framework written from scratch | PHP 8 · PDO · MySQL |
-| **[library-manager](https://github.com/Kyraws/library-manager)** | Library management web app — students borrow and review books, librarians manage catalogs | Java Servlets · MySQL · JS |
-| **[vehicle-rental](https://github.com/Kyraws/vehicle-rental)** | Vehicle rental system with an admin analytics dashboard | Java · JSP · MySQL |
+### [LumenTale Wiki](https://github.com/Kyraws/lumentale-wiki)
+
+An unofficial, non-commercial game wiki built with **Java / Spring Boot, React / TypeScript, and PostgreSQL**. It combines relational data and JSONB story graphs, localization curation, and calibrated map-coordinate projection. Full data-dependent functionality requires separately obtained compatible game data; proprietary game assets are not redistributed.
+
+## Tools I work with
+
+Python, C# / .NET, Java / Spring Boot, React / TypeScript, PostgreSQL, Git, Linux, and Docker.
+
+## Contact
+
+[Email](mailto:orestiskyratsas@protonmail.com) · [LinkedIn](https://www.linkedin.com/in/orestis-kyratsas-8a86041b9)
